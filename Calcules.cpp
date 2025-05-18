@@ -107,6 +107,7 @@ int main() {
             cout<<"Invalid operation"<<endl;
         }
     }
+    //this else for the operation , if the user didnt type anything valid , the code will run this else.
     else {
         cout<<"Invalid operation"<<endl;
     }
